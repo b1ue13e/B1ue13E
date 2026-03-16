@@ -1,29 +1,37 @@
 # Hi, I'm Junyu Li 👋
 
 <a href="https://github.com/B1ue13E">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&width=780&lines=Building+AI+systems+for+time-series+forecasting.;Exploring+quantitative+signals+through+statistics+and+machine+learning.;Discipline%2C+clarity%2C+and+long-term+thinking." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&width=820&lines=Researching+AI+for+time-series+forecasting+and+quantitative+systems.;Building+sparse+models+for+noisy%2C+non-stationary+real-world+signals.;Statistics-driven%2C+engineering-oriented%2C+long-horizon+thinking." alt="Typing SVG" />
 </a>
 
-I am a Statistics undergraduate, researcher, and builder working at the intersection of **Artificial Intelligence**, **Time-Series Modeling**, and **Quantitative Finance**.
+I am an undergraduate in **Statistics** with strong interests in **Artificial Intelligence**, **Time-Series Modeling**, and **Quantitative Finance**.
 
-My work focuses on extracting robust structure from noisy, non-stationary systems — from **wind power forecasting at the grid edge** to **data-driven market analysis**. I am particularly interested in sparse architectures, scientific machine learning, and transferable representations for complex real-world signals.
-
----
-
-## 🔭 Current Research
-
-- ⚡ **AI for Energy**  
-  Developing **Ultra-LSNT**, an edge-native sparse Mixture-of-Experts framework for wind power forecasting under noisy and resource-constrained environments.
-
-- 📈 **Quantitative Finance**  
-  Exploring statistical learning, market regime analysis, and alpha extraction from high-noise financial time series.
-
-- 🧠 **Research Interest**  
-  Sparse modeling, time-series foundation models, scientific ML, representation learning, and applied statistics.
+My work focuses on learning robust structure from **noisy, non-stationary systems**, with current research spanning **wind power forecasting**, **sparse Mixture-of-Experts architectures**, and **data-driven market analysis**.  
+I am particularly interested in building models that are not only accurate, but also **efficient, transferable, and grounded in real-world constraints**.
 
 ---
 
-## 🛠️ Toolbox
+## Research Interests
+
+- **AI for Energy Systems**  
+  Edge-native wind power forecasting, spatiotemporal learning, robust modeling under noise and deployment constraints
+
+- **Quantitative Finance**  
+  Statistical signal extraction, market regime modeling, high-noise financial time series, alpha-oriented research
+
+- **Machine Learning**  
+  Sparse Mixture-of-Experts (MoE), representation learning, scientific machine learning, time-series forecasting
+
+---
+
+## Current Project
+
+- **Ultra-LSNT**  
+  An efficient sparse MoE framework for edge-native wind power forecasting, designed for noisy environments and resource-limited deployment settings.
+
+---
+
+## Toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -37,17 +45,15 @@ My work focuses on extracting robust structure from noisy, non-stationary system
 
 ---
 
-## 🏃 Beyond Research
+## Beyond Academics
 
-Outside research and coding, I care deeply about **endurance, philosophy, and writing**.
-
-- 🏅 Half-marathon runner — current PR: **1h 48m**
-- 📖 Interested in philosophy, human nature, and long-horizon thinking
-- ✍️ Writing and exploring narrative structures beyond technical work
+- 🏃 Half-marathon runner | PR: **1h 48m**
+- 📖 Interested in philosophy, human nature, and long-term thinking
+- ✍️ Exploring writing as a parallel form of structured expression
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=b1ue13e&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" />
@@ -56,7 +62,7 @@ Outside research and coding, I care deeply about **endurance, philosophy, and wr
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: **ljylikezmn999@gmail.com**
 - GitHub: **[B1ue13E](https://github.com/B1ue13E)**
