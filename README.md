@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=false&vCenter=true&width=800&lines=Executing+dimensional+strikes+on+engineering+problems.;Extracting+alpha+signals+from+chaotic+noise.;Discipline+is+a+lifestyle." alt="Typing SVG" />
 </a>
 
-**"Bridging high-level theoretical elegance with low-level practical impact."**
-
 I am a researcher and developer exploring the intersection of **Artificial Intelligence** and **Quantitative Finance**. My background in Statistics fuels my passion for extracting structural signals from chaotic noise, whether it's in financial markets or grid-edge time-series forecasting. 
 
 ### 🔭 Current Focus & Research
