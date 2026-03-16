@@ -10,10 +10,16 @@ I am a researcher and developer exploring the intersection of **Artificial Intel
 - 🧠 **Core Philosophy:** I enjoy the process of using higher-level mathematical and philosophical abstractions to execute dimensional strikes (降维打击) on complex, low-level engineering problems.
 
 ### 🛠️ Tech Stack & Arsenal
-* **Languages:** Python | R | C++ | SQL
-* **Deep Learning:** PyTorch | Sparse MoE | Time-Series Transformers
-* **Data Science:** Pandas | NumPy | SciPy | Scikit-Learn
-* **Engineering:** Git | Linux | Edge Computing Deployment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### 🏃‍♂️ Beyond the Terminal
 When I'm not compiling code or deriving statistical proofs, you can find me:
