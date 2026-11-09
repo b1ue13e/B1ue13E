@@ -1,3 +1,5 @@
+[中文介绍](README.zh-CN.md)
+
 <p align="center">
   <a href="https://b1ue13e.github.io/"><img src="assets/profile-banner.svg" width="100%" alt="Junyu Li — Machine learning, sequential decision-making and optimization." /></a>
 </p>
