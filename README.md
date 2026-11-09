@@ -6,6 +6,8 @@
   <a href="https://b1ue13e.github.io/">Personal website ↗</a> &nbsp; / &nbsp;
   <a href="https://b1ue13e.github.io/#papers">Papers</a> &nbsp; / &nbsp;
   <a href="https://b1ue13e.github.io/#experience">Research experience</a> &nbsp; / &nbsp;
+  <a href="https://orcid.org/0009-0006-7574-4292">ORCID</a> &nbsp; / &nbsp;
+  <a href="https://b1ue13e.github.io/assets/Junyu_Li_CV.pdf">CV (PDF)</a> &nbsp; / &nbsp;
   <a href="#selected-code">Code</a> &nbsp; / &nbsp;
   <a href="mailto:ljylikezmn999@gmail.com">Get in touch ↗</a>
 </p>
