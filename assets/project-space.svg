@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" fill="none">
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="#F6F4ED" stroke="#DCDDD3" stroke-width="1"/>
+
+  <path d="M540 40L552 28M544 28H552V36" stroke="#3159DB" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M452 62H540V110H452Z" stroke="#647665" stroke-width="1.6"/>
+    <path d="M490 62V88H452M490 88H540M512 88V110" stroke="#647665" stroke-width="1.6"/>
+    <path d="M490 88A8 8 0 0 0 498 80" stroke="#3159DB" stroke-width="1.8"/>
+    <circle cx="520" cy="75" r="3.5" fill="#3159DB" stroke="none"/>
+  </g>
+
+  <text x="28" y="42" fill="#647665" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.1">DECISION SUPPORT</text>
+  <text x="28" y="84" fill="#172D29" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3">SpaceRisk</text>
+  <text fill="#172D29" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400">
+    <tspan x="28" y="124">Explainable spatial risk assessment </tspan>
+    <tspan x="28" y="150">for rental decisions.</tspan>
+  </text>
+  <text x="28" y="208" fill="#647665" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500">TypeScript / Next.js / risk modeling</text>
+</svg>

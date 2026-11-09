@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" fill="none">
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="#F6F4ED" stroke="#DCDDD3" stroke-width="1"/>
+
+  <path d="M540 40L552 28M544 28H552V36" stroke="#3159DB" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M498 62C486 62 480 69 482 80C484 89 491 95 498 102C505 95 512 89 514 80C516 69 510 62 498 62Z" stroke="#3159DB" stroke-width="1.8"/>
+    <path d="M491 94L478 112H489L498 102L507 112H518L505 94" stroke="#647665" stroke-width="1.6"/>
+    <path d="M491 94L498 102L505 94" stroke="#3159DB" stroke-width="1.8"/>
+  </g>
+
+  <text x="28" y="42" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.1">
+    <tspan fill="#647665">CAMPUS TOOLS</tspan>
+    <tspan fill="#3159DB" font-weight="700"> · FORK</tspan>
+  </text>
+  <text x="28" y="84" fill="#172D29" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3">LoveACE</text>
+  <text fill="#172D29" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400">
+    <tspan x="28" y="124">A campus toolbox for everyday life at </tspan>
+    <tspan x="28" y="150">Anhui University of Finance and Economics.</tspan>
+  </text>
+  <text x="28" y="208" fill="#647665" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500">Android / iOS / desktop</text>
+</svg>

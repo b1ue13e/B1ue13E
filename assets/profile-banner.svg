@@ -1,60 +1,38 @@
-<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Junyu Li — Statistics, AI and quantitative research</title>
+  <desc id="desc">A research notebook in warm ivory and forest green, with an abstract signal passing through a network.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#07111F"/>
-      <stop offset="0.52" stop-color="#0B1E36"/>
-      <stop offset="1" stop-color="#102A43"/>
-    </linearGradient>
-    <linearGradient id="line" x1="120" y1="120" x2="1120" y2="330" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#60A5FA"/>
-      <stop offset="0.5" stop-color="#34D399"/>
-      <stop offset="1" stop-color="#A78BFA"/>
-    </linearGradient>
-    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.11"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.035"/>
-    </linearGradient>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="28" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.23 0 0 0 0 0.55 0 0 0 0 1 0 0 0 0.45 0"/>
-    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#172D29" stroke-opacity=".055"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="420" rx="20"/></clipPath>
   </defs>
-
-  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
-
-  <g opacity="0.28">
-    <path d="M84 82H1196" stroke="#D8E7FF" stroke-opacity="0.18"/>
-    <path d="M84 338H1196" stroke="#D8E7FF" stroke-opacity="0.18"/>
-    <path d="M148 40V380" stroke="#D8E7FF" stroke-opacity="0.12"/>
-    <path d="M1132 40V380" stroke="#D8E7FF" stroke-opacity="0.12"/>
-  </g>
-
-  <circle cx="1022" cy="112" r="78" fill="#3B82F6" opacity="0.16" filter="url(#softGlow)"/>
-  <circle cx="255" cy="326" r="92" fill="#10B981" opacity="0.12" filter="url(#softGlow)"/>
-
-  <path d="M124 300C204 248 273 244 356 278C456 319 515 233 602 230C690 227 731 295 820 270C912 245 955 151 1072 172C1119 180 1156 200 1192 222" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
-  <path d="M124 300C204 248 273 244 356 278C456 319 515 233 602 230C690 227 731 295 820 270C912 245 955 151 1072 172C1119 180 1156 200 1192 222" stroke="white" stroke-opacity="0.18" stroke-width="14" stroke-linecap="round"/>
-
-  <g transform="translate(90 84)">
-    <rect width="760" height="210" rx="26" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.16"/>
-    <text x="42" y="68" fill="#EAF2FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">Junyu Li</text>
-    <text x="42" y="122" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="-1">AI Systems · Quant Research</text>
-    <text x="44" y="168" fill="#BFD0E8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="420">Statistics Undergrad @ AUFE · Sparse MoE · Time-Series · Market Alpha</text>
-  </g>
-
-  <g transform="translate(900 86)">
-    <rect width="292" height="72" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.15"/>
-    <text x="24" y="31" fill="#9ED8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">RESEARCH THREAD</text>
-    <text x="24" y="55" fill="#EEF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="520">Robust signals under noise</text>
-  </g>
-  <g transform="translate(900 178)">
-    <rect width="292" height="72" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.15"/>
-    <text x="24" y="31" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">ENGINEERING MODE</text>
-    <text x="24" y="55" fill="#EEF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="520">Prototype fast, validate hard</text>
-  </g>
-  <g transform="translate(900 270)">
-    <rect width="292" height="72" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.15"/>
-    <text x="24" y="31" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">CURRENT FOCUS</text>
-    <text x="24" y="55" fill="#EEF6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="520">Forecasting, alpha, tools</text>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="420" fill="#F6F4ED"/>
+    <rect x="760" width="440" height="420" fill="#E8EDDF"/>
+    <rect x="760" width="440" height="420" fill="url(#grid)"/>
+    <path d="M760 0V420" stroke="#D4DACD"/>
+    <circle cx="54" cy="49" r="6" fill="#3159DB"/>
+    <text x="72" y="54" font-family="Consolas, monospace" font-size="15" letter-spacing="2" fill="#647665">B1UE13E / RESEARCH &amp; ENGINEERING</text>
+    <text x="48" y="151" font-family="Segoe UI, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-4" fill="#172D29">Junyu Li<tspan fill="#3159DB">.</tspan></text>
+    <text x="52" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="400" letter-spacing="-.8" fill="#172D29">From noisy signals</text>
+    <text x="52" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="400" letter-spacing="-.8" fill="#172D29">to useful decisions.</text>
+    <path d="M52 317H708" stroke="#D4DACD"/>
+    <text x="52" y="357" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#647665">STATISTICS @ AUFE</text>
+    <text x="302" y="357" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#647665">AI · TIME SERIES · QUANT</text>
+    <g transform="translate(796 53)">
+      <text x="0" y="0" font-family="Consolas, monospace" font-size="12" letter-spacing="2" fill="#647665">OBSERVE / MODEL / DECIDE</text>
+      <rect x="0" y="36" width="368" height="250" rx="12" fill="#172D29"/>
+      <g stroke="#B6C7B5" stroke-opacity=".13">
+        <path d="M24 90H344M24 138H344M24 186H344M24 234H344"/>
+        <path d="M72 60V262M128 60V262M184 60V262M240 60V262M296 60V262"/>
+      </g>
+      <path d="M24 190L39 170L54 199L69 133L84 163L99 152L114 184L129 114L144 140L159 128L174 151L189 106L204 123L219 86L234 108L249 81L264 99L279 69L294 90L309 66L324 78L344 60" stroke="#B5C6B6" stroke-opacity=".6" stroke-width="1.5"/>
+      <path d="M24 183C50 179 57 153 84 160S111 167 133 143S160 144 183 127S213 118 239 103S266 94 291 84S319 78 344 66" stroke="#D6F078" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="239" cy="103" r="5" fill="#D6F078" stroke="#172D29" stroke-width="2"/>
+      <circle cx="344" cy="66" r="5" fill="#D6F078" stroke="#172D29" stroke-width="2"/>
+      <path d="M239 112V244" stroke="#D6F078" stroke-opacity=".35" stroke-dasharray="3 5"/>
+      <text x="24" y="258" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#B5C6B6">LESS NOISE. MORE UNDERSTANDING.</text>
+      <path d="M0 317H368" stroke="#C6D1BF"/>
+      <text x="0" y="345" font-family="Consolas, monospace" font-size="12" fill="#647665">CURIOSITY → EXPERIMENTS → SOFTWARE</text>
+    </g>
   </g>
 </svg>
