@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://b1ue13e.github.io/">Personal website ↗</a> &nbsp; / &nbsp;
-  <a href="#research">Research</a> &nbsp; / &nbsp;
+  <a href="https://b1ue13e.github.io/#papers">Papers</a> &nbsp; / &nbsp;
+  <a href="https://b1ue13e.github.io/#experience">Research experience</a> &nbsp; / &nbsp;
   <a href="#selected-code">Code</a> &nbsp; / &nbsp;
   <a href="mailto:ljylikezmn999@gmail.com">Get in touch ↗</a>
 </p>
@@ -21,7 +22,7 @@ I study how intelligent systems learn from feedback, decide when additional reas
 - **Reasoning & agents** — The value of additional computation, sequential semantic feedback, and agents that improve through experimentation.
 - **Reliable machine learning** — Representation dynamics and grokking, prior misspecification, and robust learning in changing temporal environments.
 
-[Explore ongoing and recent research on my website →](https://b1ue13e.github.io/#research)
+[Papers & manuscripts](https://b1ue13e.github.io/#papers) · [Research collaborations & experience](https://b1ue13e.github.io/#experience) · [Current research](https://b1ue13e.github.io/#research)
 
 ## Selected code
 
