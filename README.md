@@ -1,23 +1,29 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Junyu Li — From noisy signals to useful decisions. Statistics at AUFE; AI, time series and quantitative research." />
+  <a href="https://b1ue13e.github.io/"><img src="assets/profile-banner.svg" width="100%" alt="Junyu Li — Machine learning, sequential decision-making and optimization." /></a>
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="https://b1ue13e.github.io/kronos-hub/">Kronos docs</a> &nbsp; / &nbsp;
+  <a href="https://b1ue13e.github.io/">Personal website ↗</a> &nbsp; / &nbsp;
+  <a href="#research">Research</a> &nbsp; / &nbsp;
+  <a href="#selected-code">Code</a> &nbsp; / &nbsp;
   <a href="mailto:ljylikezmn999@gmail.com">Get in touch ↗</a>
 </p>
 
 ## About
 
-I'm **Junyu Li**, a statistics undergraduate at **Anhui University of Finance and Economics**. I work on time-series forecasting, sparse neural models, and quantitative research, and build software that makes those ideas useful.
+I'm **Junyu Li**, a statistics undergraduate at **Anhui University of Finance and Economics**. My research connects **machine learning, sequential decision-making, and optimization**.
 
-My interests start with messy, changing data: wind-power measurements, market signals, and the decisions built on top of them. I care about understanding why a model works, running reproducible experiments, and turning research into tools people can use.
+I study how intelligent systems learn from feedback, decide when additional reasoning is worthwhile, and use learned guidance to solve constrained problems. My work also examines model reliability: how imperfect structural priors and changing representations affect learning and decisions.
 
-**Currently exploring** &nbsp; Sparse mixtures of experts · Robust forecasting · AI for quantitative research
+## Research
 
-## Selected work
+- **Decision learning & optimization** — Preference learning, AHP and FlowSort, strategic multi-criteria decision support, and neural search for mixed-integer problems.
+- **Reasoning & agents** — The value of additional computation, sequential semantic feedback, and agents that improve through experimentation.
+- **Reliable machine learning** — Representation dynamics and grokking, prior misspecification, and robust learning in changing temporal environments.
+
+[Explore ongoing and recent research on my website →](https://b1ue13e.github.io/#research)
+
+## Selected code
 
 <table>
   <tr>
@@ -50,14 +56,14 @@ My interests start with messy, changing data: wind-power measurements, market si
 
 ## Toolkit
 
-**Research** &nbsp; Python · PyTorch · pandas · Time-series modeling<br />
+**Research** &nbsp; Python · PyTorch · Statistical learning · Optimization<br />
 **Building** &nbsp; TypeScript · Next.js · FastAPI · Dart / Flutter<br />
 **Workflow** &nbsp; Git · Linux · Reproducible experiments
 
 ---
 
 <p align="center">
-  Interested in forecasting, sparse models, or research tools? Let's talk.<br />
+  <a href="https://b1ue13e.github.io/">b1ue13e.github.io</a> &nbsp; · &nbsp;
   <a href="mailto:ljylikezmn999@gmail.com">ljylikezmn999@gmail.com</a> &nbsp; · &nbsp;
-  <a href="https://github.com/b1ue13e?tab=repositories">Explore all repositories ↗</a>
+  <a href="https://github.com/b1ue13e?tab=repositories">All repositories ↗</a>
 </p>
