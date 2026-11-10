@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://b1ue13e.github.io/">Personal website ↗</a> &nbsp; / &nbsp;
   <a href="https://b1ue13e.github.io/#papers">Papers</a> &nbsp; / &nbsp;
-  <a href="https://b1ue13e.github.io/#experience">Research experience</a> &nbsp; / &nbsp;
+  <a href="https://b1ue13e.github.io/#experience">Experience</a> &nbsp; / &nbsp;
   <a href="https://orcid.org/0009-0006-7574-4292">ORCID</a> &nbsp; / &nbsp;
   <a href="https://b1ue13e.github.io/assets/Junyu_Li_CV.pdf">CV (PDF)</a> &nbsp; / &nbsp;
   <a href="#selected-code">Code</a> &nbsp; / &nbsp;
@@ -26,7 +26,11 @@ I study how intelligent systems learn from feedback, decide when additional reas
 - **Reasoning & agents** — The value of additional computation, sequential semantic feedback, and agents that improve through experimentation.
 - **Reliable machine learning** — Representation dynamics and grokking, prior misspecification, and robust learning in changing temporal environments.
 
-[Papers & manuscripts](https://b1ue13e.github.io/#papers) · [Research collaborations & experience](https://b1ue13e.github.io/#experience) · [Current research](https://b1ue13e.github.io/#research)
+[Papers & manuscripts](https://b1ue13e.github.io/#papers) · [Research & internship experience](https://b1ue13e.github.io/#experience) · [Current research](https://b1ue13e.github.io/#research)
+
+## Experience
+
+- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — Internship · **2024–2025**.
 
 ## Selected code
 

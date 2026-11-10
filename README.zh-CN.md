@@ -10,7 +10,11 @@
 - **推理与智能体：**额外计算的价值、序贯语义反馈，以及通过实验改进的智能体。
 - **可靠机器学习：**表征动力学与 grokking、结构先验失配，以及变化环境中的时序学习。
 
-当前[论文与研究稿件](https://b1ue13e.github.io/#papers)、[科研合作经历](https://b1ue13e.github.io/#experience)和[研究项目](https://b1ue13e.github.io/#research)统一在个人主页维护。
+当前[论文与研究稿件](https://b1ue13e.github.io/#papers)、[科研与实习经历](https://b1ue13e.github.io/#experience)和[研究项目](https://b1ue13e.github.io/#research)统一在个人主页维护。
+
+## 实习经历
+
+- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — 实习 · **2024–2025**。
 
 ## 部分开源项目
 
