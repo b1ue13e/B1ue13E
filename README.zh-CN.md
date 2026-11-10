@@ -12,8 +12,10 @@
 
 当前[论文与研究稿件](https://b1ue13e.github.io/#papers)、[科研与实习经历](https://b1ue13e.github.io/#experience)和[研究项目](https://b1ue13e.github.io/#research)统一在个人主页维护。
 
-## 实习经历
+## 科研与实习经历
 
+- **[新加坡管理大学 · 曹志光老师组](https://b1ue13e.github.io/#experience-smu)** — 科研助理（RA）· **目前**，开展自动化科研研究。
+- **[华安期货](https://b1ue13e.github.io/#experience-huaan)** — 实习 · **2026年8月**。
 - **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — 实习 · **2024–2025**。
 
 ## 部分开源项目
