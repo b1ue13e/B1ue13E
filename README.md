@@ -32,7 +32,7 @@ I study how intelligent systems learn from feedback, decide when additional reas
 
 - **[Singapore Management University · Zhiguang Cao's group](https://b1ue13e.github.io/#experience-smu)** — Research Assistant · **Current**. Working on automated research.
 - **[Huaan Futures](https://b1ue13e.github.io/#experience-huaan)** — Internship · **Aug 2026**.
-- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — Internship · **2024–2025**.
+- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — Internship · **2024–2025**. Conducted mixture-of-experts (MoE) pruning experiments, built PyTorch training and evaluation workflows, and studied out-of-distribution generalization.
 
 ## Selected code
 

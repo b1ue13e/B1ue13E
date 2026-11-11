@@ -16,7 +16,7 @@
 
 - **[新加坡管理大学 · 曹志光老师组](https://b1ue13e.github.io/#experience-smu)** — 科研助理（RA）· **目前**，开展自动化科研研究。
 - **[华安期货](https://b1ue13e.github.io/#experience-huaan)** — 实习 · **2026年8月**。
-- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — 实习 · **2024–2025**。
+- **[Galvani Capital](https://b1ue13e.github.io/#experience-galvani)** — 实习 · **2024–2025**。开展混合专家模型（MoE）剪枝实验，搭建 PyTorch 训练与评估流程，并研究分布外泛化。
 
 ## 部分开源项目
 
